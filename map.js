@@ -1,9 +1,9 @@
 
-const VIEW_POINT = [55.752161956105276,37.61949517968746];
+const VIEW_POINT = [55.752161956105276, 37.61949517968746];
 
 const PLACEMARKS = [
 	{point: [55.752161956105276, 37.61949517968746], tooltip: 'test', image: '1.png'},
-	{point: [55.853809, 38.415948], tooltip: 'test 2', image: '1.png'},
+	{point: [55.853809, 38.415948], tooltip: 'test 25', image: '1.png'},
 ];
 
 ymaps.ready(init);
